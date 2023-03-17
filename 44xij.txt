@@ -1,0 +1,1 @@
+vless://71b56c1d-d483-4d92-8390-7b88f2d35fa7@ip.onemaster.sbs:2053?type=ws&security=tls&path=%2F&host=master.onemaster.sbs&sni=ip.onemaster.sbs&fp=chrome#M%20A%20S%20T%20E%20R%203-MST%20%7C%2090
